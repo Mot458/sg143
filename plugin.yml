@@ -1,0 +1,7 @@
+name: ShadowPets
+main: cz.mot.system.Main
+version: 1.0
+api-version: 1.8
+commands:
+  pet:
+    description: Spawns your pet
